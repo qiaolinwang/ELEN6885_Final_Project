@@ -1,0 +1,7 @@
+
+gymnasium==0.26.2
+streamlit==1.40.1
+pandas==1.5.3
+numpy==1.23.0
+yfinance==0.2.49
+torch==2.4.1
